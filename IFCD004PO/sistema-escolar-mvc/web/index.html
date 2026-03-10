@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sistema Escolar MVC</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<div class="container mt-5">
+    <h1>Sistema Consulta Escolar</h1>
+    <div class="row">
+        <div class="col-md-4">
+            <button class="btn btn-primary w-100 mb-3" onclick="cargarSueldos()">Ver Sueldos Personal</button>
+            <div id="sueldos"></div>
+        </div>
+        <div class="col-md-4">
+            <button class="btn btn-success w-100 mb-3" onclick="cargarNotas()">Ver Notas Estudiantes</button>
+            <div id="notas"></div>
+        </div>
+    </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="/js/app.js"></script>
+</body>
+</html>

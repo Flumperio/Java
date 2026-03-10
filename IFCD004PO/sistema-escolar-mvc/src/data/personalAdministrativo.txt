@@ -1,0 +1,5 @@
+# LISTADO DE PERSONAL ADMINISTRATIVO - COLEGIO NUESTRA SEÑORA DEL CARMEN
+# Formato: Nombre Completo,Cargo,Área,Sueldo Mensual,Años de Antigüedad
+Luis Martínez Campos,Secretario,Secretaría General,1800.00,12
+Marta Torres Gil,Conserje,Servicios Generales,1700.00,8
+Pedro Herrera León,Bibliotecario,Biblioteca,1750.00,15
