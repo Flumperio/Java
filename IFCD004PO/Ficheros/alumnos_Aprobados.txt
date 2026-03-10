@@ -1,0 +1,13 @@
+Marta,Ruiz,9.4
+Noelia,Alonso,9.6
+Patricia,Ramírez,7.4
+Clara,Méndez,8.0
+Teresa,Serrano,5.9
+Rosa,Rubio,7.3
+Beatriz,Sanz,8.5
+Samuel,Pérez,6.3
+Pablo,García,5.2
+Javier,Iglesias,6.6
+Álvaro,Fuentes,7.2
+Tomás,Medina,10.0
+Sofía,Gómez,9.5

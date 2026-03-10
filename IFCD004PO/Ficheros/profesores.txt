@@ -1,0 +1,7 @@
+# LISTADO DE PROFESORES - COLEGIO NUESTRA SEÑORA DEL CARMEN
+# Formato: Nombre Completo,Departamento,Especialidad,Sueldo Mensual,Horas Semanales
+María García López,Matemáticas,Álgebra y Geometría,2500.00,30
+Juan Pérez Martín,Lengua y Literatura,Literatura Española,2400.00,32
+Laura Sánchez Díaz,Idiomas,Inglés,2550.00,28
+Carlos Ruiz Fernández,Ciencias Naturales,Biología y Geología,2300.00,30
+Ana López Romero,Ciencias Sociales,Historia y Geografía,2450.00,29
